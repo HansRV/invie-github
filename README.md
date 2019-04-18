@@ -1,2 +1,2 @@
 # invie-github
-curso de platzi
+curso de platzi by @platzi
